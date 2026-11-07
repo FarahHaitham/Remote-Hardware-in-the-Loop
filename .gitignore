@@ -1,0 +1,42 @@
+# OS Generated Files (Windows & Mac)
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Python (Raspberry Pi & Host PC)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+env/
+build/
+dist/
+*.egg-info/
+.env
+venv/
+
+# C/C++ (Compiled binaries)
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.dll
+bin/
+
+# MATLAB / Simulink (Common in HIL)
+*.asv
+slprj/
+*.mex*
+*.mat
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*~
